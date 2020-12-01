@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/VolodymyrShtef/stat_and_phonebook/static/css/main.b19eb69c.chunk.css",
-    "main.js": "/VolodymyrShtef/stat_and_phonebook/static/js/main.112ffb71.chunk.js",
-    "main.js.map": "/VolodymyrShtef/stat_and_phonebook/static/js/main.112ffb71.chunk.js.map",
-    "runtime-main.js": "/VolodymyrShtef/stat_and_phonebook/static/js/runtime-main.edd827d8.js",
-    "runtime-main.js.map": "/VolodymyrShtef/stat_and_phonebook/static/js/runtime-main.edd827d8.js.map",
-    "static/js/2.6112b81a.chunk.js": "/VolodymyrShtef/stat_and_phonebook/static/js/2.6112b81a.chunk.js",
-    "static/js/2.6112b81a.chunk.js.map": "/VolodymyrShtef/stat_and_phonebook/static/js/2.6112b81a.chunk.js.map",
-    "index.html": "/VolodymyrShtef/stat_and_phonebook/index.html",
-    "precache-manifest.84da2dbfb729f4ca5a6ccdf2b35d3821.js": "/VolodymyrShtef/stat_and_phonebook/precache-manifest.84da2dbfb729f4ca5a6ccdf2b35d3821.js",
-    "service-worker.js": "/VolodymyrShtef/stat_and_phonebook/service-worker.js",
-    "static/css/main.b19eb69c.chunk.css.map": "/VolodymyrShtef/stat_and_phonebook/static/css/main.b19eb69c.chunk.css.map"
+    "main.css": "/stat_and_phonebook/static/css/main.b19eb69c.chunk.css",
+    "main.js": "/stat_and_phonebook/static/js/main.112ffb71.chunk.js",
+    "main.js.map": "/stat_and_phonebook/static/js/main.112ffb71.chunk.js.map",
+    "runtime-main.js": "/stat_and_phonebook/static/js/runtime-main.9fad170c.js",
+    "runtime-main.js.map": "/stat_and_phonebook/static/js/runtime-main.9fad170c.js.map",
+    "static/js/2.6112b81a.chunk.js": "/stat_and_phonebook/static/js/2.6112b81a.chunk.js",
+    "static/js/2.6112b81a.chunk.js.map": "/stat_and_phonebook/static/js/2.6112b81a.chunk.js.map",
+    "index.html": "/stat_and_phonebook/index.html",
+    "precache-manifest.310c58abaa684782505cc1e6bca9465c.js": "/stat_and_phonebook/precache-manifest.310c58abaa684782505cc1e6bca9465c.js",
+    "service-worker.js": "/stat_and_phonebook/service-worker.js",
+    "static/css/main.b19eb69c.chunk.css.map": "/stat_and_phonebook/static/css/main.b19eb69c.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.edd827d8.js",
+    "static/js/runtime-main.9fad170c.js",
     "static/js/2.6112b81a.chunk.js",
     "static/css/main.b19eb69c.chunk.css",
     "static/js/main.112ffb71.chunk.js"
